@@ -1,1 +1,1 @@
-# trabalhos arquitetura de surperconputadores
+# trabalho arquitetura de surperconputadores
